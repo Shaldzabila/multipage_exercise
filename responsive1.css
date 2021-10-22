@@ -1,0 +1,96 @@
+@media all and (max-width:1000px){
+  header{
+    font-size: medium;
+
+  }
+  .logo img{
+    width: 100px;
+  height: 87px;
+  }
+  .section{
+  float: left;
+  display: block;
+  width: 30px;
+  height: 20px;
+  padding-left: 20px;
+  text-align: center;
+  color: black;
+  font-size: medium;
+}
+.uppermain p{
+  font-size: medium;
+}
+main{
+  font-size: medium;
+height: 1600px;
+}
+
+.courses{
+  height: 1300px;
+}
+
+.footer{
+  font-size: medium;
+}
+}
+
+@media all and (max-width:350px){
+  header{
+    font-size: xx-small;
+  }
+  .logo img{
+    width: 80px;
+  height: 67px;
+  }
+  .section{
+  display: none;
+}
+.slideshow-container{
+top: 100px;
+  width: 60%;
+}
+.uppermain p{
+  align-self: center;
+  font-size: 18px;
+  padding-top: 130px;
+  padding-left: ;
+}
+.uppermain{
+  height: 480px;
+}
+.course img{
+  width: 100%;
+  height: 100%;
+}
+main{
+  font-size: small;
+height: 2500px;
+}
+
+.course{
+  float: left;
+  diplay: flex;
+  margin-right: auto;
+  margin-left: auto;
+  
+  background-color: lightblue;
+  width: 100%;
+  height: 200px;
+}
+.logobawah img{
+  height:80px;
+  width:80px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+.footer{
+ font-size: xx-small;
+ height: 150px;
+ width: 100%;
+ margin-left: none;
+
+}
+}
+
+
