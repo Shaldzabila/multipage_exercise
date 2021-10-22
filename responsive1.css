@@ -34,7 +34,7 @@ height: 1600px;
 }
 }
 
-@media all and (max-width:350px){
+@media all and (max-width:650px){
   header{
     font-size: xx-small;
   }
